@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="23d9193c-f59f-435c-b6c5-451038bc6076" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GrassRoadRace/Scene_GrassRoadRace.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Supercyan Character Pack Free Sample/Prefabs/Simple Movement/High Quality/MaleFreeSimpleMovement1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Supercyan Character Pack Free Sample/Prefabs/Simple Movement/High Quality/MaleFreeSimpleMovement1.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1keLIoG4AOAnt0W2opzABFVKGAd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,6 +70,7 @@
       <workItem from="1606056046219" duration="397000" />
       <workItem from="1606127522057" duration="6000" />
       <workItem from="1606480455525" duration="1030000" />
+      <workItem from="1606673424171" duration="1217000" />
     </task>
     <servers />
   </component>
