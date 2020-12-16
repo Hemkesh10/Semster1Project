@@ -4,6 +4,9 @@
     <list default="true" id="23d9193c-f59f-435c-b6c5-451038bc6076" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2020 Gone Wrong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CameraMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CameraMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +16,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/FollowPlayer.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/PlayerController.cs" />
     </changedPaths>
   </component>
@@ -72,6 +79,8 @@
       <workItem from="1606480455525" duration="1030000" />
       <workItem from="1606673424171" duration="1217000" />
       <workItem from="1607434149166" duration="3521000" />
+      <workItem from="1607438603427" duration="2071000" />
+      <workItem from="1607944290909" duration="6541000" />
     </task>
     <servers />
   </component>
